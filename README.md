@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-[screenshot-1024px](screenshot-1024px.png)
+![screenshot-1024px](screenshot-1024px.png)
 [screenshot-375px](screenshot-375px.png)
 
 ### Links
