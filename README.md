@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [index.html](index.html)
+- Solution URL: [https://github.com/hamze-kabi/blog-preview-card/](https://github.com/hamze-kabi/blog-preview-card/)
 - Live Site URL: [https://hamze-kabi.github.io/blog-preview-card/](https://hamze-kabi.github.io/blog-preview-card/)
 
 ## My process
