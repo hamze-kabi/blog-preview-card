@@ -24,12 +24,13 @@ Users should be able to:
 ### Screenshot
 
 ![screenshot-1024px](screenshot-1024px.png)
+
 [screenshot-375px](screenshot-375px.png)
 
 ### Links
 
 - Solution URL: [index.html](index.html)
-- Live Site URL: [https://hamzekabi.github.io/Blog-preview-card/](https://hamzekabi.github.io/Blog-preview-card/)
+- Live Site URL: [https://hamze-kabi.github.io/blog-preview-card/](https://hamze-kabi.github.io/blog-preview-card/)
 
 ## My process
 
